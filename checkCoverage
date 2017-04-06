@@ -1,0 +1,3 @@
+# bumpercare/checkCoverage
+
+nosetests --with-coverage --cover-html --cover-tests --cover-branches --cover-inclusive --cover-package= bumpercare test*.py

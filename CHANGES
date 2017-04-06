@@ -1,2 +1,10 @@
 py/bumpercare/CHANGES
 
+
+v0.0.2
+    2017-04-06
+        * add configuration files
+v0.0.1
+    2017-04-06
+        initial commit
+
