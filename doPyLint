@@ -1,0 +1,3 @@
+# bumpercare/doPyLint
+
+pylint setup.py bumpercare test*.py

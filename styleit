@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+if [ ! -z "${DEV_BASE// }" ]
+then
+  cd $DEV_BASE/py/bumpercare
+  
+  autopep8 -ai *.py
+  autopep8 -air bumpercare
+  
+else
+  echo "DEV_BASE is not defined"
+fi
