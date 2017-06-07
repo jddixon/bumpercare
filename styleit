@@ -5,7 +5,7 @@ then
   cd $DEV_BASE/py/bumpercare
   
   autopep8 -ai *.py
-  autopep8 -air bumpercare
+  autopep8 -air src
   
 else
   echo "DEV_BASE is not defined"
