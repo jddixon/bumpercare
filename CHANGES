@@ -7,12 +7,12 @@ v0.0.4
 v0.0.3
     2017-06-07
         * restructure for pylint                                    SLOC  324
+v0.0.3
+    2017-04-18
+        * drop dist/ ; minor edits                                  SLOC  323
 v0.0.2
     2017-04-06
         * add configuration files
 v0.0.1
     2017-04-06
         initial commit
-
-
-
