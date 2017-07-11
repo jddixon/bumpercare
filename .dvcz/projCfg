@@ -2,11 +2,13 @@
 project:bumpercare
 package:bumpercare
 mainlang:py
-version:0.0.1
-versionDate:2017-04-06
+version:0.0.3
+versionDate:2017-06-07
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
+dir:std:src
+dir:std:tests
 dir:std:.dvcz
 dir:pkg:bumpercare
 dir:clr:build

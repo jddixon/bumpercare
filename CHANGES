@@ -1,6 +1,12 @@
 py/bumpercare/CHANGES
 
 
+v0.0.4
+    2017-07-11
+        * add MANIFEST.in, rewrite setup.py                         SLOC  358
+v0.0.3
+    2017-06-07
+        * restructure for pylint                                    SLOC  324
 v0.0.3
     2017-04-18
         * drop dist/ ; minor edits                                  SLOC  323
@@ -10,5 +16,3 @@ v0.0.2
 v0.0.1
     2017-04-06
         initial commit
-
-

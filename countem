@@ -6,7 +6,7 @@ then
   
   rm -rf build/* tmp/* 
   
-  pySloc -L py   -X cover -X htmlcov -X dist -v $@
+  pySloc -L py  -X cover -X htmlcov -X dist -v $@ bumpercare src/bl_check src/bl_createtestdata1 src/bl_listgen src/bl_srcgen setup.py
 else
   echo "DEV_BASE is not defined"
 fi
