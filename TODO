@@ -1,2 +1,9 @@
 py/bumpercare/TODO
 
+2017-07-11
+    CONFUSION IN COMMITS:
+    * there are two v0.0.3 commits in the ghrepo version of CHANGES,
+        but only one here
+    * builds is also missing a file
+    * lastBuildList may be wrong
+
