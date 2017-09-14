@@ -8,24 +8,20 @@ k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
 bumpercare v0.0.5
-2017-08-29 20:30:18
+2017-09-14 20:28:20
 # BEGIN CONTENT #
 bumpercare
- .cache
-  v
-   cache
-    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 8abb96c00d7effd90bd9c813ab48b8c850fe13ee
+  builds 1146f5d08b838f56e28312a7448a42c71da594be
   copyright 5be039ec22b90efe60eeb38d206670e54da64d72
-  lastBuildList 63ea79ef08c8798e2f8b2e2fb6b1335b454d3b2c
+  lastBuildList cc3ada75edd0848aeadb671ce818660386fe6519
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg dc2c056725cc01730e869e2b6cbf0299e22cd47f
   projCfg.local b0ae39c4417db1913d8fc04e2de483168554a5d5
-  version b08a998174d896ae3133ab98649d8c9113843516
+  version 9c137d9fd0d00b30703c03ca59f96e4a83b72321
  .gitignore 7de6b56ffe9e21d458fd606f462f7854743e09bb
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES 2a2643da1e20b79fe63d238e72edf02b8fded36b
+ CHANGES 4f51d448d6c429a37edd2dbad57c1a27c1217af8
  LICENSE-MIT.md 929652e5fc4b6bb39bfb473732a42b8860d05b82
  MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 2732f34ab87fd5bc5375f44b18e8d4857a1d5e38
@@ -38,11 +34,11 @@ bumpercare
   index.md 84ae4f10f682321b6178c33ce55e5b7ac1e370d2
  installit d54b7f58b0292105fd7b5e7754c09b5c27e1f6b2
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- requirements.txt fbe614e260f95127cadb5114cd073a5430034ce3
+ requirements.txt 964caac9766ba4f3d264865f946ca9d63b990391
  setup.py 79861e28956bdda4619692c0e86fd1f45da3dddd
  src
   bumpercare
-   __init__.py 134e983980c1324f91e8db18d7ecffafffb0c398
+   __init__.py fb42ebc85e2ed5d20ebaf6ee4bdf2bacd4b23e2f
  styleit ca03d02b342221723068aa3e50cbddab52bee413
  test.all 03409adc7008f18a850ebdedd6b8a6e2f7beeb3c
  test_requirements.txt beffc5b0283c17335fb2cd98840e3105020c6276
@@ -50,4 +46,4 @@ bumpercare
  tox.ini 939c19ddfc1a5cf7e5171d89ed3a0a2817f03969
 # END CONTENT #
 
-js2/fkDlXGriV59ZydlMyt8Ext/JB0FAGVmU5b2Ww33jnCZXoGT3iiCo678kX5LqKvWaJXEBb57o6rXzNscJXj+juGaYGiKS3roPc+3+xrP9VA4WrVH70NBWnX2fDKQe1TYEjvYG1gjbsZ/GuSSKsJAAbzc3zWEWN2UxhoCr5UYFtR6sn2ljBY9uihPZ/E8ED4pr6pzYFhWDAtFvwhHnKlmPsg938V3SXr61G5Ew6cgGDum1j//Q0kegcFRftzosgMPm80Wc1mwiwZdq9941xD52aNIu4QzK/eBHsP/4tQuox+06e5X7Kx+RbaVHNhyZP2dSRA1voaiEoxiHxwU6WA==
+VIfoSqXjFaq2lSbN6XQjTP9EyW64ql0ItHI44C8cQSS5lirXgPUqamgGaz6Ne78NU60Oqh0VEJ1m5batLABOmR+2D1oUeqbBpR+FdEyMqTd1ReBVbT4oT8AC3+/6HYWOcNlPX20P+bYEhIJBnppOj0S4y+GV23pL1jcrq00k6ZMbK/9L4Fe6H7CBvD0ZR8eFmDpUjT/YnJGDk0dooi2daNsaStfPX5XWkL+1wCWB3986Sd9yq/RINNnTOnTXYto48j4Y/zi1YTW4KnSoWjhUMtcD8QpCIb0Scs2Imgutu4gsbyct51p3uPTYPj/XX94SmRPW4uqvoG25WiVI6lV/yw==
