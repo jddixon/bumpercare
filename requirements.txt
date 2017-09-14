@@ -1,2 +1,3 @@
 # bumpercare/requirements.txt
+setuptools
 
