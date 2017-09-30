@@ -12,7 +12,7 @@ if exists('README.md'):
         long_desc = file.read()
 
 setup(name='bumpercare',
-      version='0.0.5',
+      version='0.0.6',
       author='Jim Dixon',
       author_email='jddixon@gmail.com',
       long_description=long_desc,
@@ -22,10 +22,10 @@ setup(name='bumpercare',
       include_package_data=False,
       zip_safe=False,
       scripts=[],
-      description='default proj desc',
+      description='BumperWare server',
       url='https://jddixon.github.io/bumpercare',
       classifiers=[
-          'Development Status :: 2 - Pre-Alpha',
+          'Development Status :: 1 - Planning',
           'Intended Audience :: Developers',
           'License :: OSI Approved :: MIT License',
           'Natural Language :: English',
