@@ -1,0 +1,35 @@
+# projConfig.toml for bumpercare
+
+[meta]
+    version= '0.1.0'
+
+[project]
+    name = 'bumpercare'             # external name = distribution name
+    package = 'bumpercare'          # internal name
+    main_lang = 'py'
+    version = '0.0.6'
+    version_date = '2017-09-30'
+    author = 'Jim Dixon'
+    author_email = 'jdd@gmail.com'
+    copyright = '2017'
+    description = 'BumperWare server'
+    dev_status = 'planning'
+    license = 'mit'
+    relpath = 'py/bumpercare'
+    state = 'shared'
+    url = 'https://jddixon.github.io/bumpercare'
+
+[python]
+    test_dir = 'tests'
+    packages = ['bumpercare']
+    package_dir = ['src']
+    py_modules = []
+    scripts = []
+    ext_modules = []
+
+    # sdReq output
+    distshare = ['rnglib']
+    requirements = ['setuptools']
+    test_requirements = []
+
+    # trove stuff is TBD

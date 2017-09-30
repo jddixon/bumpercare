@@ -1,6 +1,9 @@
 py/bumpercare/CHANGES
 
 
+v0.0.6
+    2017-09-30
+        * add projConfig.toml                                       SLOC  427
 v0.0.5
     2017-09-14
         * correct requirements.txt                                  SLOC  403
@@ -16,6 +19,7 @@ v0.0.2
 v0.0.1
     2017-04-06
         initial commit
+
 
 
 
