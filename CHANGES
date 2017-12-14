@@ -1,6 +1,9 @@
 py/bumpercare/CHANGES
 
 
+v0.0.7
+    2017-12-14
+        * pylinting                                                 SLOC  427
 v0.0.6
     2017-09-30
         * add projConfig.toml                                       SLOC  427
@@ -19,6 +22,7 @@ v0.0.2
 v0.0.1
     2017-04-06
         initial commit
+
 
 
 
