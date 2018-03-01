@@ -1,2 +1,1 @@
 # bumpercare/test_requirements.txt
-
